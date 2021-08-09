@@ -13,7 +13,7 @@ Our system allows you to manually and automatically print out new orders. This g
 ## Requirements
 
 * An Android device with Android 1.4 or above
-* A ESC/POS compatible printer
+* An ESC/POS compatible printer
 * Latest version of PushPrinter that can be downloaded [here](https://www.pushprinter.com)
 
 ## Setup Process
@@ -23,7 +23,7 @@ Our system allows you to manually and automatically print out new orders. This g
 1. Visit your restaurant dashboard and navigate to "Settings &gt; Receipt Printing"
 2. Press the "New Printer" button and fill out any options needed
 3. On the "Printer Settings" tab, set your Printer Method to 'ESCPOS' and ESCPOS Printing Type to 'ESCPOS Image'.  Note that some older printers may not support this method and ESCPOS Text Only can be used in these cases.
-4. The defauly paper settings work for most printers.  If the test print is cutting of the edge of the text, please adjust the Paper Scale Factor to 1.7 and test again.
+4. The default paper settings work for most printers.  If the test print is cutting off the edge of the text, please adjust the Paper Scale Factor to 1.7 and test again.
 5. Create the print configuration. After creating it, you will get a unique API key to connect to it. Keep this screen open as you will need to copy your API key soon.
 
 ![Printer Settings for Android](../.gitbook/assets/printer-settings.png)
@@ -52,15 +52,15 @@ Visit your orders page. Select an order, under the action select bar, select pri
 
 #### Contact Us
 
-We have successfully setup 100's of printers, there is a good chance we can save you lots of headaches so please don't hesitate to contact us.
+We have successfully set up 100's of printers, there is a good chance we can save you lots of headaches so please don't hesitate to contact us.
 
 #### Sides being cut-off
 
-Start by reducing either your Paper Scale Factor to 1.7 and test print again.  Adjust until it fits.
+Start by reducing either your Paper Scale Factor to 1.7 and test print again. Adjust until it fits.
 
 #### Invalid API Key
 
-The API key you entered does not below to any of your print configurations. Double check your API key
+The API key you entered does not belong to any of your print configurations. Double-check your API key
 
 #### Could Not Authenticate
 
@@ -69,6 +69,4 @@ Check your internet connection or try again shortly
 #### Printing not working even though everything is set up correctly
 
 Please ensure that Android detects your printer. Try restarting your device. Try printing to your printer from other programs on your PC such as your browser.
-
-
 

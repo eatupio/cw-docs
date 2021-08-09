@@ -7,6 +7,8 @@ description: >-
 
 # Setup Your Menus
 
+{% embed url="https://youtu.be/Nyyr2vwB1Io" caption="Menu setup video tutorial" %}
+
 ## Setup Process
 
 Menus are organized in a tree structure. Menus contain categories and categories contain dishes. The general setup process is as follows.
@@ -40,7 +42,7 @@ You will likely only need one menu. Multiple menus are useful if certain items a
 
 ## Menus
 
-These represent your actual real-life menus. Many stores have just one main menu that's always available. Others may have a lunch & dinner menu or a pickup-only menu. You will need at least one menu for your online store to work.
+These represent your actual real-life menus. Many stores have just one main menu that's always available. Others may have a lunch & dinner menu or a pickup only menu. You will need at least one menu for your online store to work.
 
 Menu availability can depend on certain conditions such as order types \(pickups or deliveries\), order timings \(e.g. pre-order only\). They can also be restricted to certain days and timings.
 
@@ -80,12 +82,12 @@ Standard dishes can contain a list of ingredients. The purpose of this is to all
 
 #### Combo Dishes
 
-Combos are a special type of dish that contains other dishes. It allows you to create a list of choices for customers to select various standard dishes. For example, you can create:
+Combos are a special type of dish that contain other dishes. It allows you to create a list of choices for customers to select various standard dishes. For example, you can create:
 
-* Choose 3 pizzas, 2 sides, and 2 drinks
-* Choose a burger, side, and drink
+* Choose 3 pizzas, 2 sides and 2 drinks
+* Choose a burger, side and drink
 
-To do this you will first need to have created some standard dishes. Then when creating your combo, you can create 4 choices, 3 pizza choices, and one drink choice. You can then assign dish choices to the pizzas and drinks for customers to choose from.
+To do this you will first need to have created some standard dishes. Then when creating your combo, you can create 4 choices, 3 pizza choices and one drink choice. You can then assign dish choices to the pizzas and drinks for customers to choose from.
 
 {% hint style="info" %}
 Combo dishes cannot contain option sets or ingredients directly. Instead when a customer chooses a standard dish within a combo, if the chosen standard dish has any option sets assigned to it, a user can customize it accordingly.
@@ -119,7 +121,7 @@ Tags allow you to highly particular attributes about a dish with a fully customi
 
 * Spicy
 * Vegan
-* Gluten-free
+* Gluten free
 
 ## Common Menu Problems
 

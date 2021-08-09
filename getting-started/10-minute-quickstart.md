@@ -6,6 +6,8 @@ description: >-
 
 # 10-Minute Quickstart
 
+{% embed url="https://youtu.be/Cd171XS0IGI" caption="Quickstart video tutorial" %}
+
 ## Quick-start Steps
 
 1. Visit [https://www.eatup.io](https://www.eatup.io) and sign in to your account

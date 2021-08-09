@@ -15,7 +15,7 @@ Every aspect of the system runs online and therefore requires you to be connecte
 * Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as Australia.
 
 {% hint style="warning" %}
-IT staff occasionally set up an internet firewall for small businesses to prevent accessing harmful content. Ensure that eatup.io is white-listed on your firewall to avoid connection issues to our servers.
+IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that eatup.io is white-listed on your firewall to avoid connection issues to our servers.
 {% endhint %}
 
 ## Computer or Tablet
@@ -28,7 +28,7 @@ To manage your online store and orders, you will need a device that can access t
 This is optional but very helpful for managing orders
 {% endhint %}
 
-You can automatically or manually print new orders using any printer whose drivers are installed on an Android device, Windows, or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
+You can automatically or manually print new orders using any printer whose drivers are installed on a Android device, Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
 
 Compatible devices:
 
