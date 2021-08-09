@@ -1,16 +1,12 @@
 ---
-description: >-
-  Your restaurant services represent the various order types you accept. View
-  our video for an in-depth explanation of all the settings available.
+description: Your restaurant services represent the various order types you accept.
 ---
 
 # Configure Your Services
 
-{% embed url="https://youtu.be/EUW9nZVAE68" caption="Services video tutorial" %}
-
 There are 4 services currently available. They are:
 
-* Pickup - orders that are picked up in store by customers to take away
+* Pickup - orders that are picked up in-store by customers to take away
 * Delivery - orders that are delivered to the customer's address
 * Dine-in - orders that are placed by customers currently seated in your store
 * Table booking - a reservation made for a later date and time
@@ -34,7 +30,7 @@ You can add custom notes for each service that will be shown to the customer whe
 
 ## Order Timings
 
-A customer is only able to place an order due immediately if your store is opened. Orders for a later date must be scheduled within your opening hours. As such, order timings are mostly controlled by your store opening hours. From there, each service has it's own separate order timing settings that allow your more in-depth control.
+A customer is only able to place an order due immediately if your store is opened. Orders for a later date must be scheduled within your opening hours. As such, order timings are mostly controlled by your store opening hours. From there, each service has its own separate order timing settings that allow your more in-depth control.
 
 ### Enabling & Disabling Order Times
 
@@ -50,7 +46,7 @@ This is the period of time from when your store closes to when the last order wi
 
 ### Order Offset
 
-The normal order offset only applies for scheduled orders at a later time. This is the period from now when a scheduled order can be made. For example, it's there to prevent customers from scheduling order in the next 10 minutes instead of just asking for it to be due ASAP.
+The normal order offset only applies for scheduled orders at a later time. This is the period from now when a scheduled order can be made. For example, it's there to prevent customers from scheduling orders in the next 10 minutes instead of just asking for it to be due ASAP.
 
 So for example, if your order offset is 30 minutes and the current time is 6:00pm, the next time a customer can schedule an order would be 7:00pm. If they want it before 7:00pm, they can still just order for ASAP instead. If the order offset was 15 minutes, then the customer can order for 6:30pm.
 
@@ -71,7 +67,7 @@ To help you better manage your orders and customer expectations, we provide a st
 * Ready
 * On Route \(delivery only\)
 * Complete
-* Cancelled
+* Canceled
 
 Both estimated wait times and automated status updates are connected to the same timing settings. This is so that your status updates and wait times are in sync with each other. This avoids any customer confusion. These timing settings are:
 
@@ -91,7 +87,7 @@ Both estimated wait times and automated status updates are connected to the same
 
 ### Estimated Wait Times
 
-A stated, customer wait times are calculated using the above timing settings. 
+A stated, customer wait times are calculated using the above timing settings.
 
 #### How estimated wait time are calculated for pickup or dine-in orders
 
@@ -99,9 +95,9 @@ For pickup and dine-in orders, the estimated wait time is calculating but adding
 
 If you have not added a value for time till confirm or time till ready, the estimated wait time would not be calculated.
 
-#### How estimated wait time is calculate for delivery orders
+#### How estimated wait time is calculated for delivery orders
 
-For deliveries, the wait time is calculating by adding the **time till confirm** + **time till ready** + **time till on route** together. Then the **driving time** is added onto that. The driving time is determined using an external service that takes into account traffic data. This provides the customer with an extremely accurate wait time for their order to be delivered. Assuming 
+For deliveries, the wait time is calculating by adding the **time till confirm** + **time till ready** + **time till on route** together. Then the **driving time** is added onto that. The driving time is determined using an external service that takes into account traffic data. This provides the customer with an extremely accurate wait time for their order to be delivered. Assuming
 
 If you have not added a value for time till confirm or time till ready or time till on route, the delivery time would not be calculated.
 
