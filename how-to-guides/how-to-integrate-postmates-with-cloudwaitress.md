@@ -12,7 +12,7 @@ description: Postmates is a last mile delivery services operating in the USA.
 [This is the updated list of cities where Postmates is available](https://www.notion.so/cloudwaitresswiki/POSTMATES-Integration-ca913853d3ad493eb935d2a5f1120c30#8f10f90feb7a4b94ab35dfdbe0b14158)
 {% endhint %}
 
-## How to set-up CloudWaitress &gt; Postmates integration
+## How to set-up EatUp &gt; Postmates integration
 
 {% tabs %}
 {% tab title="How to generate the Webhook?" %}
@@ -77,10 +77,10 @@ Once you enter in your restaurant information, you will be redirected to the Pos
 IMPORTANT - The following settings must be applied for the Postmates integration to work.
 {% endhint %}
 
-**In Cloudwaitress the following settings must be applied;**
+**In EatUp the following settings must be applied;**
 
 1. Generate and add the webhook to Postmates \(details above\)
-2. Add the Postmates keys into restaurant dashboard. Settings &gt; Integrations &gt; Postmates.
+2. Add the Postmates keys to the restaurant dashboard. Settings &gt; Integrations &gt; Postmates.
 3. Settings &gt; Services &gt; Deliveries &gt; Fees &gt; None
 
 ![](../.gitbook/assets/postmates-essential-settings-1.png)
@@ -97,13 +97,13 @@ The following settings MUST be enabled;
 * Time Till Ready \(minutes\)
 * Time till on route \(mins\)
 
-Note: You can set different timings for these fields and you can use the other fields within this section, however this wont impact the Postmates integration.
+Note: You can set different timings for these fields and you can use the other fields within this section, however, this won't impact the Postmates integration.
 
 ![](../.gitbook/assets/postmates-essential-settings-3.png)
 
 ## FAQ
 
-* **What if I already have a Postmates account and are on their app? Do I still need a developer account?**
+* **What if I already have a Postmates account and am on their app? Do I still need a developer account?**
 
-  You should already have access to the Developer section of Postmates, and all you will need to do is copy the existing keys into the CloudWaitress Admin Dashboard.
+  You should already have access to the Developer section of Postmates, and all you will need to do is copy the existing keys into the EatUp Admin Dashboard.
 
