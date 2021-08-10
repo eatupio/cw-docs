@@ -10,7 +10,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 \|\| We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance
 
-For step by step instructions by printing method. Please use the following instructions. It is worth noting that for most situations, we recommend using the Windows Shared Printing method;
+For step by step instructions by printing method.  Please use the following instructions.  It is worth noting that for most situations, we recommend using the Windows Shared Printing method;
 
 {% page-ref page="printing-api-key.md" %}
 
@@ -22,7 +22,7 @@ For step by step instructions by printing method. Please use the following instr
 
 * Windows 7 / 8 / 10 either 32-bit or 64-bit
 * A Windows-compatible printer with the drivers installed
-* The latest version of PushPrinter can be downloaded [here](https://www.pushprinter.com)
+* Latest version of PushPrinter that can be downloaded [here](https://www.pushprinter.com)
 
 ## Setup Process
 
@@ -31,7 +31,7 @@ For step by step instructions by printing method. Please use the following instr
 1. If your drivers are successfully installed, your printer will be shown on your PC under "Control Panel &gt; Hardware and Sound &gt; Devices and Printers"
 2. Right-click your printer and select "Properties"
 3. On the bottom left, press "Print Test Page". 
-4. Verify that the test page was successfully printed
+4. Verify that the test page successfully printed
 
 If this is successful, your printer will work fine. If you cannot find your printer or it doesn't work, reinstall the driver again.
 
